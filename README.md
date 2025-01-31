@@ -29,7 +29,7 @@ export PATH="$HOME/.local/bin:$PATH"
 Clonez ce dépôt et installez les dépendances avec Poetry :
 
 ```sh
-git clone <URL_DU_REPO>
+git clone git@github.com:MagnanJules/ytb_magic_dwld.git
 cd youtube_audio_downloader
 poetry install
 ```
