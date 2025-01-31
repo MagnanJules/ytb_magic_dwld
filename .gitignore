@@ -1,0 +1,25 @@
+# Dossier des téléchargements
+ytb_magic_dwld/
+
+# Fichiers de configuration Poetry
+poetry.lock
+
+# Dépendances installées
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+
+# Paramètres de l'éditeur
+*.swp
+*.swo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
